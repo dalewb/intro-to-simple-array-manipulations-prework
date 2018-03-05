@@ -25,3 +25,11 @@ end
 def using_concat(array)
   
 end 
+
+using options_from_collection_for_select
+
+using_uniq 
+
+using_flatten 
+
+using delete 
