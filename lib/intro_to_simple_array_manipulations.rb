@@ -26,10 +26,18 @@ def using_concat(array)
   
 end 
 
-using options_from_collection_for_select
+def using_insert 
+  
+end 
 
-using_uniq 
+def using_uniq 
+  
+end 
 
-using_flatten 
+def using_flatten 
+  
+end 
 
-using delete 
+def using_delete 
+  
+end 
