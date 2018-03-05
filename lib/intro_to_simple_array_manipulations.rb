@@ -22,22 +22,26 @@ def shift_with_args(array)
   array.shift(2)
 end 
 
-def using_concat(array)
+def using_concat(array1, array2)
+  array1.concat(array2)
+end 
+
+def using_insert(array) 
   
 end 
 
-def using_insert 
+def using_uniq(array)
   
 end 
 
-def using_uniq 
+def using_flatten(array)
   
 end 
 
-def using_flatten 
+def using_delete(array)
   
 end 
 
-def using_delete 
+def using_delete_at(array)
   
 end 
